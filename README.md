@@ -1,6 +1,7 @@
 #Xware-desktop deb package
 
-##Usage
+## Usage
+
 - 编译环境为 Linux Mint 17.3 64-bit
 - 理论上支持所有系统为 Ubuntu 14.04 以上的 Debian 系系统安装
 - 不支持32位系统安装
